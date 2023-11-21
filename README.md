@@ -8,10 +8,6 @@ How to Use
 
 Clone this repo and open index.html in your browser.
 
-Link to repository
-
-https://github.com/ricosantangelo/scheduler
-
 Live link to the project
 
 https://ricosantangelo.github.io/scheduler/
